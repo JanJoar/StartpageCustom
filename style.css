@@ -22,8 +22,7 @@ html {
       font-size: 2em;
       grid-column: 1 / -1;
       margin: 0;
-      text-align: center;
-      color: #ff7a93;
+      color: #e8e8e8;
     }
 
     a {
@@ -68,15 +67,14 @@ html {
 input {
   background-color: unset;
   font: 16px 'Ubuntu Mono', monospace;
-  color: #ebdbb2;
+  color: #e8e8e8;
   height: 100%;
   width: 100%;
   border-top-style: hidden;
   border-bottom-style: soild;
   border-left-style: hidden;
   border-right-style: hidden;
-  border-bottom-color: #ff9e64;
-  text-align: center;
+  border-bottom-color: #e8e8e8;
   margin-top: 50px;
   outline: 0;
   padding-bottom: 0.5em;
