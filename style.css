@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
 
 html {
-      background-color: #1a1b26;
+      background-color: #282a2e;
       align-items: center;
       color: #ebdbb2;
       display: flex;
@@ -58,11 +58,11 @@ html {
     }
 
     img {
-      border: 2px solid #ebdbb2;
+      border: 2px solid #ffffff;
       height: auto;
       object-fit: cover;
       object-position: 50% 100%;
-      width: 10em;
+      width: 15em;
     }
 
 input {
