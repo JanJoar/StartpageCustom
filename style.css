@@ -22,7 +22,7 @@ html {
       font-size: 3em;
       grid-column: 1 / -1;
       margin: 0;
-      color: #ebffff;
+      color: #000000;
     }
 
     a {
@@ -67,14 +67,14 @@ html {
 input {
   background-color: unset;
   font: 16px 'Iosevka Comfy', monospace;
-  color: #e8e8e8;
+  color: #000000;
   height: 100%;
   width: 100%;
   border-top-style: hidden;
   border-bottom-style: hidden;
   border-left-style: hidden;
   border-right-style: hidden;
-  border-bottom-color: #e8e8e8;
+  border-bottom-color: #000000;
   margin-top: 50px;
   outline: 0;
   padding-bottom: 0em;
