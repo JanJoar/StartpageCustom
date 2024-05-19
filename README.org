@@ -1,7 +1,6 @@
 * Startpage
 A custom variation of the startpage made by [[https://github.com/voxie12/voxie12.github.io][voxie12]].
-The only changes are the links, image, colour, and some other minor things. I hate CSS and so wanted to avoid doing as much from scratch as I could.
-The image is taken from the introductory cutscene of Homeworld Remastered.
+The changes are the links themselves, removal of the image, colour, and the addition of light and dark mode colour schemes. I hate CSS and so wanted to avoid doing as much from scratch as I could.
 
 [[./image.png]]
 
